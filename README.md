@@ -5,9 +5,6 @@ A modern, responsive homepage for an IELTS preparation institute built with Reac
 ## 🚀 Live Demo
 [Add your live demo link here after deployment]
 
-## 📸 Preview
-![IELTS Institute Homepage](https://via.placeholder.com/800x400?text=IELTS+Institute+Homepage+Preview)
-
 ## ✨ Features
 
 - **Modern Design**: Clean, professional layout with smooth animations
